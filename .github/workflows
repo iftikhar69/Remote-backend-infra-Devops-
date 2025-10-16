@@ -6,7 +6,7 @@ on:
       - main  # or your main branch name
 
 jobs:
-  terraform:
+  terraform: 
     runs-on: ubuntu-latest
 
     permissions:
